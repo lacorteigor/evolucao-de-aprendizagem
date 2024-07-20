@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-# Evolução de Aprendizagem
+# Evolução de Aprendizagem - Exemplo
 
 ### Conteúdos a serem trabalhados nesse módulo:
 
